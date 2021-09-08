@@ -5,8 +5,6 @@ Meta
 
 Open Source Canonical Continuous Previews methodology for community maintainers and contributors
 
-Written by Josh Thurman
-
-Editor/Graphics by Grayson Adkins
+Primary Authors Josh Thurman and Grayson Adkins
 
 Contributions from: Adam Vollrath et al
