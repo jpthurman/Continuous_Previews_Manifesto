@@ -1,4 +1,4 @@
-# Continuous_Previews_Manifesto
+# Continuous Previews Manifesto
 Source for:  https://cpmanifesto.org
 
 Meta
