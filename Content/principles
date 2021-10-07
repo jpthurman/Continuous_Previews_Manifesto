@@ -1,16 +1,21 @@
-The 7 Principles of CP 
+The 11 Principles of CP 
 
-1. Continuous Collaboration / Avoiding Siloed Development 
+1. Significantly Easier to Fix issues Pre-merge vice Post-merge
 
-2. Empower Individual Developers with production-like Test Environments
+2. Bring QA into the Development Process (CP = Continuous Collaboration between Devolopment and Product)
 
-3. Tight Integration between Ticketing, Repositories, and Infrastructure
+3. Confirm Functionality Prior to Integration
 
+4. Isolated Feature Testing (Separation of Concerns) over batch testing
 
-4. No additional Burdens on the Development Team
+5. Tight integration between Ticketing, Repositories, Infrastructure
 
-5. Confirming Intended Functionality Prior to Integration
+6. No additional burdens on the Development Team7.  Limit Context Switching
 
-6. Reliance on Automation
+8. Reliance on Automation
 
-7. Support for Full-stack (Front ends, Back Ends, Microservices, APIs, backing services . . .)
+9. Reduce reliance on Critical Single Points of Failure (i.e. persistent QA environment)
+
+10. Empower Developers with Feature-level Test Environments
+
+11. Support for Full-stack (Front ends, Back Ends, Microservices, APIs, backing services . . .)
