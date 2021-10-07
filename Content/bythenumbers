@@ -1,7 +1,5 @@
 What CP looks like-
 
-By the Numbers:
-
 1. New feature / topic / bug fix is designed and ticketed
 2. Development Team member is assigned the ticket and creates a git topic branch and begins development
 3. When ready for review the Development Team member opens a Merge Request
